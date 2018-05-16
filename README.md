@@ -1,3 +1,5 @@
 # GBros
 MASM 32
-Main idea: gaming interface
+Primary purpose: Basic game interface, with simple menu that works
+-User interface,start menu with several options
+-
